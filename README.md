@@ -22,7 +22,7 @@ DOWNTOWN_20x20m_7d.nc4
 Due to not much variation in air quality, the visibility of all paths is good and is around 21km.
 So, both paths are safe in case of visibility.
 
-![Map of the paths](map.png)
+![Map of the paths](map2.png)
 
 ## Contributing
 * Rajshekar Reddy - rajashekar.reddy@research.iiit.ac.in
