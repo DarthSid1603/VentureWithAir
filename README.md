@@ -1,16 +1,10 @@
 # VentureWithAir
-Data Set used :
+## Data Set used :
 DOWNTOWN_20x20m_7d.nc4
----|---|	
-|Size 	         | 222 MB							|
-|Grid resolution |	20 x 20 meters (approx.)				|
-|Bounding box 	 |(60.161, 24.922) to (60.176, 24.949)				|
-|Time range 	 |2020-06-01 to 2020-06-07 (7 days)				|	
-|Description 	 |Simulated measurements and upscaled 				|
-|		 | meteorological data for downtown Helsinki during one week.	|
-|---|		 
-# Haze-Ard
 
+		 
+# Haze-Ard
+an application for the real-time prediction of visibility on a path/ at a place utilizing the monitored air pollution.
 ## Required modules
 * DOWNTOWM data from VentureWithAir website
 * python 3.6
