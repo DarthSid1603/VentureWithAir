@@ -13,7 +13,7 @@
 ![Map of the paths](map.png)
 
 ## Contributing
-* Rajshekar
-* Jayati
-* Siddharth
-* Sara
+* Rajshekar Reddy - rajashekar.reddy@research.iiit.ac.in
+* Jayati Narang - jayati.narang@students.iiit.ac.in
+* Siddharth De - siddharth.de@students.iiit.ac.in
+* Sara Spanddhana - spanddhana.sara@research.iiit.ac.in
