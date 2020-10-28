@@ -9,6 +9,9 @@
 * geopandas
 * netcdf4 
 
+## Image
+![Map of the paths](map.png)
+
 ## Contributing
 * Rajshekar
 * Jayati
