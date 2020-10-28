@@ -4,7 +4,7 @@ DOWNTOWN_20x20m_7d.nc4
 
 		 
 # Haze-Ard
-an application for the real-time prediction of visibility on a path/ at a place utilizing the monitored air pollution.
+An application for the real-time prediction of visibility on a path/ at a place utilizing the monitored air pollution.
 ## Required modules
 * DOWNTOWM data from VentureWithAir website
 * python 3.6
